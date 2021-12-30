@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spdaly73
 - 👀 I’m interested in IaC
-- 🌱 I’m currently learning GCP, AWS, Terraform
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on .?.
 - 📫 How to reach me: here for now.
 
